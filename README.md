@@ -5,11 +5,11 @@
 
 ## PURPOSE:
 
-Agriculture and its allied sectors are a major contribution to the Indian economy. In this day and age where everything functions digitally on devices, these areas of occupation need to keep up too. One of our goals was to make our Indian farmers more aware of the variety of E farming features that can be of great use to them. Ours is a small initiative, but is not restricted to a certain level. There seems to be a lot of scope in the future of E farming and also in the scope of our system.
+Agriculture and its allied sectors play a vital role in the Indian economy. In today's digital age, it is crucial for these areas to keep up with technological advancements. As a part of our initiative, we aim to raise awareness among Indian farmers about the diverse range of e-farming features that can greatly benefit them. Although our initiative may be small in scale, it is not limited in its potential. We believe that there is significant scope for the future of e-farming and for our system to make a meaningful impact.
 
 ## ABOUT THE APPLICATION:
 
-A Django and ML based web application with a whole lot of features to help the E - Agro industry.
+Our Django and ML-based web application is designed to revolutionize the E-Agro industry by providing a wide range of powerful features. These include crop prediction with a 99% accuracy rate using Random Forest Classifier, plant disease detection with a 95% accuracy rate using Sequential Model, tool renting functionality using Django Models, climate information through REST API, news updates through REST API, and expert assistance with contact details and feedback options. Our application aims to empower farmers with advanced technologies for optimizing farming operations, making informed decisions, and improving agricultural outcomes.
 
 ## FEATURES:
 
@@ -19,10 +19,6 @@ A Django and ML based web application with a whole lot of features to help the E
 - Know the climate - REST API
 - NEWs - REST API
 - Expert assistance - contact details and feedback
-
-## DEMO:
-
-Video Link: 
 
 ## CONTRIBUTERS:
 
@@ -41,8 +37,7 @@ Tensorflow.
 ## TOOLS:
 
 VS Code,
-Canva,
-Draw.io.
+Canva.
 
 ## DATASETS:
 
@@ -58,19 +53,21 @@ Draw.io.
 
 ## USAGE:
 
-- To run this web app, kindly download the zip file KisaaneSakha and Unzip the folder in your system or clone the repository. Also download the .h5 file and place it in plant_disease_detection app folder; H5 file: https://drive.google.com/file/d/1ou3tFfgG4QOagcayMFTbaydE3uYoav_0/view?usp=sharing
-- Go to KisaaneSakha/KisaaneSakha and open settings.py file. On line 141 and 142 make the required changes i.e. add your email id and password of that email account.
-- Open command prompt and navigate to the KisaaneSakha folder that includes the file manage.py and all the apps.
-- On that path, run the following commands - 
-  1. python manage.py makemigrations
-  2. python manage.py migrate
-  3. python manage.py runserver.
+1. Download the zip file "KisaaneSakha" and unzip it in your system, or clone the repository.
+2. Download .h5 file, and place it in the "plant_disease_detection" app folder.
+3. Open the "settings.py" file located in "KisaaneSakha/KisaaneSakha" and make the necessary changes on line 141 and 142 by adding your email ID and password for the email account.
+4. Open the command prompt and navigate to the "KisaaneSakha" folder that contains the "manage.py" file and all the apps.
+5 In the command prompt, run the following commands:
+  a. python manage.py makemigrations
+  b. python manage.py migrate
+  c. python manage.py runserver
 
 ## FUTURE SCOPE:
 
-Future directions include - 
-(1) working on larger datasets for crop prediction, 
-(2) adding more leaf diseases and increasing the accuracy of the model, 
-(3) adding an online payment methods for renting tools, 
-(4) providing only the details of tools made available by farmers of the same region as the user, 
-(5) providing a weather forecast for a week or more.
+Future Directions:
+1. Expanding the crop prediction model by incorporating larger datasets.
+2. Enhancing the plant disease detection model by adding more leaf diseases and improving accuracy.
+3. Integrating online payment methods for renting tools to streamline the process.
+4. Refining the tool renting functionality to only display details of tools available from farmers in the same region as the user.
+5. Adding a weather forecast feature to provide extended weather predictions for a week or more.
+
