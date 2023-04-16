@@ -1,6 +1,6 @@
 # KisaaneSakha: A multiservice web-app for Indian Farmers. 
 
-<img src="https://github.com/its-satyam/KisaaneSakha/blob/main/KisaaneSakha/authkv/static/images/farmers.jpg?raw=true" width="50%" height="50%" />
+<img src="https://github.com/its-satyam/KisaaneSakha/blob/main/KisaaneSakha/authkv/static/images/farmers.jpg?raw=true" width="40%" height="30%" />
 
 
 ## PURPOSE:
