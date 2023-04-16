@@ -58,9 +58,9 @@ Canva.
 3. Open the "settings.py" file located in "KisaaneSakha/KisaaneSakha" and make the necessary changes on line 141 and 142 by adding your email ID and password for the email account.
 4. Open the command prompt and navigate to the "KisaaneSakha" folder that contains the "manage.py" file and all the apps.
 5. In the command prompt, run the following commands:
-  a. python manage.py makemigrations
-  b. python manage.py migrate
-  c. python manage.py runserver
+  1) python manage.py makemigrations
+  2) python manage.py migrate
+  3) python manage.py runserver
 
 ## FUTURE SCOPE:
 
